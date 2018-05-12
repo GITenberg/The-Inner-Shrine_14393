@@ -1,0 +1,28 @@
+_repo: The-Inner-Shrine_14393
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14393-h/images/cover.jpg
+creator:
+  author:
+    agent_name: King, Basil
+    alias: King, William Benjamin Basil
+    birthdate: 1859
+    deathdate: 1928
+    gutenberg_agent_id: '3214'
+    url: http://www.gutenberg.org/2009/agents/3214
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Widows -- Fiction'
+title: The Inner Shrine
+url: http://www.gutenberg.org/ebooks/14393
